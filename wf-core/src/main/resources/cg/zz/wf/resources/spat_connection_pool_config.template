@@ -1,0 +1,12 @@
+#db config
+ConnetionURL=jdbc:mysql://localhost:3306/test?useUnicode=true&amp;characterEncoding=UTF-8
+DriversClass=com.mysql.jdbc.Driver
+UserName=root
+PassWord=
+MinPoolSize=5
+MaxPoolSize=50
+IdleTimeout=30
+SqlCreaterClass=com.bj58.sfft.utility.dao.sqlcreate.SqlServerSQLCreater
+ProcCreaterClass=com.bj58.sfft.utility.dao.sqlcreate.BJ58AutoCreateProcParaCreater
+QurryTimeOut=5
+InsertUpdateTimeOut=10
