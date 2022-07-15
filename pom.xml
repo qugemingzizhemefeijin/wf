@@ -24,7 +24,7 @@
 		<commons_fileupload_version>1.4</commons_fileupload_version>
 		<spring_version>4.3.16.RELEASE</spring_version>
 		<javassist_version>3.12.0.GA</javassist_version>
-		<jackson_version>2.9.10</jackson_version>
+		<jackson_version>2.12.6.1</jackson_version>
 		<velocity_tools_version>2.0</velocity_tools_version>
 		<freemarker_version>2.3.29</freemarker_version>
 		<tomcat_servlet_api_version>7.0.96</tomcat_servlet_api_version>
